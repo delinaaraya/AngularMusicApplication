@@ -1,27 +1,54 @@
 # Streamfront
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+## Overview
 
-## Development server
+Streamfront is a frontend web application built using Angular and TypeScript. It was developed as a practice project to explore component-based architecture, routing, and modern single-page application (SPA) design.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+The project focuses on building a structured, scalable frontend using Angular’s core features such as components, services, and client-side routing.
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Features
 
-## Build
+- Angular component-based architecture
+- Client-side routing for navigation between pages
+- Modular and reusable UI components
+- Responsive frontend layout (if applicable)
+- TypeScript-based development
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## Technologies Used
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- Angular CLI
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Project Structure
 
-## Further help
+- **Components**: Reusable UI building blocks
+- **Pages/Views**: Application screens routed via Angular Router
+- **Services**: (if used) Shared logic and data handling
+- **Assets**: Static images and resources
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+## Purpose
+
+This project was created to strengthen my understanding of:
+
+- Angular framework fundamentals
+- Single-page application (SPA) architecture
+- Component-driven frontend development
+- TypeScript in a real-world project structure
+- Frontend routing and application organization
+
+---
+
+## Status
+
+This is a learning and practice project and is not intended for production use. It serves as part of a broader portfolio of web development work.
